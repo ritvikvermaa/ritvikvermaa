@@ -1,5 +1,14 @@
-# 💫 About Me:
-🔭 I’m currently working on **AirWatch – an Air Quality Analytics Platform using React, Flask, APIs, and Machine Learning**<br><br>👯 I’m looking to collaborate on **AI/ML projects, full-stack applications, and data-driven solutions**<br><br>🤝 I’m looking for help with **scaling ML systems, backend architecture, and deployment workflows**<br><br>🌱 I’m currently learning **React, Flask, Node.js, Machine Learning, and Full-Stack Development**<br><br>💬 Ask me about **Python, AI/ML, React, Flask, Node.js, Data Science, and Web Development**<br><br>⚡ Fun fact: **I enjoy building projects that combine real-world data, machine learning, and modern web technologies**<br>
+# About Me
+
+I am currently building **Parkora AI**, an AI-powered residential parking and visitor management platform focused on intelligent parking allocation, visitor tracking, and operational automation using React, Node.js, Express, and MongoDB.
+
+I am interested in collaborating on **AI/ML projects, full-stack web applications, automation systems, and scalable software products that solve real-world problems**.
+
+My current areas of focus include **backend development, system design, cloud deployment, machine learning, and modern full-stack engineering practices**.
+
+I work with technologies including **Python, JavaScript, React, Node.js, Express, MongoDB, REST APIs, Git, GitHub, and Machine Learning frameworks**.
+
+I enjoy building practical software solutions that combine data, automation, and modern web technologies to create meaningful user experiences and solve operational challenges.
 
 
 ## 🌐 Socials:
